@@ -1,4 +1,3 @@
-"# SOA_Task3" 
 I have implemented JWT authentication. 
 There are 3 new files created as auth_middleware.py, userModel.py and userModule.py
 userModel.py file is responsible for User activities such as creating a user, login user, and find user for a specific username. For my JWT implementation I have only implemented dummy class and please reffer this class the person who are implementing user registration and login. 
